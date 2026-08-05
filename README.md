@@ -28,26 +28,17 @@ Combino la formación en DAM con el Máster en Big Data e IA para construir apli
 
 ## 🚀 Proyectos destacados
 
-<div align="center">
+- 🖥️ **[GestionAp](https://github.com/nelsongomezsa/GestionAP)** — App de escritorio con JavaFX + MySQL para gestión de alquiler de habitaciones.
+- ⚙️ **[GestionAp API](https://github.com/nelsongomezsa/gestionap-api)** — API REST en Java 17 + Spring Boot, ampliación backend del proyecto original.
 
-<a href="https://github.com/nelsongomezsa/GestionAP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsongomezsa&repo=GestionAP&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nelsongomezsa/gestionap-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsongomezsa&repo=gestionap-api&theme=tokyonight&hide_border=true" />
-</a>
+Ver los repositorios fijados abajo 📌
 
-</div>
-
-- 🖥️ **GestionAp** — App de escritorio con JavaFX + MySQL para gestión de alquiler de habitaciones.
-- ⚙️ **GestionAp API** — API REST en Java 17 + Spring Boot, ampliación backend del proyecto original.
-
-## 📊 Estadísticas de GitHub
+## 📊 Actividad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nelsongomezsa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=nelsongomezsa&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://komarev.com/ghpvc/?username=nelsongomezsa&label=Visitas+al+perfil&color=2EE6A6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/nelsongomezsa?style=for-the-badge&color=2EE6A6&logo=github&logoColor=white" />
 
 </div>
 
