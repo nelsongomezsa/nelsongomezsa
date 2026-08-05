@@ -26,9 +26,17 @@ Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) y Máster 
 
 Combino la formación en DAM con el Máster en Big Data e IA para construir aplicaciones y analizar datos con un enfoque práctico. Busco mis primeras prácticas para seguir creciendo como desarrollador, con el sector bancario como meta a medio plazo.
 
-## 🚀 Proyectos destacados
+## 🚀 Proyecto insignia
 
-- 🖥️ **[GestionAp](https://github.com/nelsongomezsa/GestionAP)** — App de escritorio con JavaFX + MySQL para gestión de alquiler de habitaciones.
+### ⭐ [GestionAp PRO](https://github.com/nelsongomezsa/gestionAPPRO)
+
+Mi proyecto principal: la evolución avanzada de GestionAp. App de escritorio en **Java 17 + JavaFX + MySQL**, con arquitectura en capas (DAO/service/controller), JDBC puro, exportación XML validada con XSD y documentación completa. Aquí sigo aplicando mejoras y refactors más allá del alcance de la entrega académica original.
+
+**[→ Ver el repositorio](https://github.com/nelsongomezsa/gestionAPPRO)**
+
+### Otros proyectos
+
+- 🖥️ **[GestionAp](https://github.com/nelsongomezsa/GestionAP)** — Entrega académica original: app de escritorio con JavaFX + MySQL para gestión de alquiler de habitaciones.
 - ⚙️ **[GestionAp API](https://github.com/nelsongomezsa/gestionap-api)** — API REST en Java 17 + Spring Boot, ampliación backend del proyecto original.
 
 Ver los repositorios fijados abajo 📌
