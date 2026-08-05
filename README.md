@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Nelson Gómez 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Estudiante+de+DAM+%C2%B7+M%C3%A1ster+en+Big+Data+e+IA;Desarrollador+Backend+en+formaci%C3%B3n;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+SQL;Buscando+mis+primeras+pr%C3%A1cticas+%F0%9F%9A%80" alt="Typing SVG" />
+**Desarrollador backend en formación · DAM + Máster en Big Data e IA**
 
 </div>
 
