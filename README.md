@@ -37,7 +37,6 @@ Ver los repositorios fijados abajo 📌
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nelsongomezsa&label=Visitas+al+perfil&color=2EE6A6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/nelsongomezsa?style=for-the-badge&color=2EE6A6&logo=github&logoColor=white" />
 
 </div>
