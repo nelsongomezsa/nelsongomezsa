@@ -15,11 +15,23 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Máster e
 
 ## 📚 Sobre mí
 
-- 🎓 Cursando 1º DAM + Máster en Big Data e IA
-- 💻 Aprendiendo desarrollo de aplicaciones y web
-- 🤖 Interesado en inteligencia artificial y análisis de datos
-- 🚀 Buscando mis primeras prácticas profesionales
+- 🎓 Estudiante de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM).
+- 🔐 Especializándome en Ciberseguridad.
+- 🐧 Aprendiendo Linux, redes y seguridad informática.
+- 💻 Desarrollando aplicaciones con Java, Python y tecnologías web.
+- 🚀 Buscando mis primeras prácticas profesionales en desarrollo o ciberseguridad.
+
+## 🎯 Actualmente aprendiendo
+
+- 🛡️ Seguridad en aplicaciones web (OWASP Top 10).
+- 🌐 Redes y protocolos.
+- 🐍 Python para automatización y ciberseguridad.
+- 🐧 Administración de sistemas Linux.
+- 🔍 Análisis de vulnerabilidades y pentesting básico.
+- 📂 Git y GitHub.
 
 ## 📂 Proyectos destacados
 
-Echa un vistazo a mis repositorios 👇
+En este perfil encontrarás proyectos de desarrollo de software, automatización y, progresivamente, proyectos relacionados con la ciberseguridad, tanto ofensiva como defensiva.
+
+¡Gracias por visitar mi perfil! 🚀
