@@ -29,17 +29,17 @@ Combino la formación en DAM con el Máster en Big Data e IA para construir apli
 
 ## 🚀 Proyectos destacados
 
-### 💶 [Finance Tracker API](https://github.com/nelsongomezsa/finance-tracker-api)
-
-API REST en **Java 17 + Spring Boot 3** para controlar ingresos y gastos personales, con resumen mensual y desglose por categoría. Incluye **tests con JUnit 5, Mockito y MockMvc**, validación de datos, manejo centralizado de errores y documentación interactiva con **Swagger (OpenAPI)**.
-
-**[→ Ver el repositorio](https://github.com/nelsongomezsa/finance-tracker-api)**
-
 ### ⭐ [GestionAp PRO](https://github.com/nelsongomezsa/gestionAPPRO)
 
 Mi proyecto principal: la evolución avanzada de GestionAp. App de escritorio en **Java 17 + JavaFX + MySQL**, con arquitectura en capas (DAO/service/controller), JDBC puro, exportación XML validada con XSD y documentación completa. Aquí sigo aplicando mejoras y refactors más allá del alcance de la entrega académica original.
 
 **[→ Ver el repositorio](https://github.com/nelsongomezsa/gestionAPPRO)**
+
+### 💶 [Finance Tracker API](https://github.com/nelsongomezsa/finance-tracker-api)
+
+API REST en **Java 17 + Spring Boot 3** para controlar ingresos y gastos personales, con resumen mensual y desglose por categoría. Incluye **tests con JUnit 5, Mockito y MockMvc**, validación de datos, manejo centralizado de errores y documentación interactiva con **Swagger (OpenAPI)**.
+
+**[→ Ver el repositorio](https://github.com/nelsongomezsa/finance-tracker-api)**
 
 ### Otros proyectos
 
