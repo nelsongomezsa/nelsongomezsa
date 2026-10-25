@@ -19,13 +19,12 @@ Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) y Máster 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-1F4E79?style=for-the-badge&logo=databricks&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
 ## 🙋‍♂️ Sobre mí
 
-Combino la formación en DAM con el Máster en Data & Analytics para construir aplicaciones y analizar datos con un enfoque práctico. Busco mis primeras prácticas para seguir creciendo como desarrollador, con la banca y la consultoría tecnológica como objetivo. **Disponible para prácticas (FCT) desde marzo de 2027.**
+Combino la formación en DAM con el Máster en Data & Analytics para construir aplicaciones y analizar datos con un enfoque práctico. Busco mis primeras prácticas para seguir creciendo como desarrollador, con la banca y la consultoría tecnológica como objetivo. **Disponible para prácticas de Formación en Empresa desde febrero de 2027.**
 
 ## 🚀 Proyectos destacados
 
