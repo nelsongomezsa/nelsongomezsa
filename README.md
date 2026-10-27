@@ -1,78 +1,52 @@
 <div align="center">
 
-# ¡Hola! Soy Nelson Gómez 👋
+# Nelson Gómez Sánchez
 
-**Desarrollador backend en formación · DAM + Máster en Data & Analytics**
+**Desarrollador Java junior (DAM + Máster en Data & Analytics) | Spring Boot · SQL · Python | Prácticas de Formación en Empresa en Madrid desde feb. 2027**
 
-</div>
-
-Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) y Máster en Data & Analytics. Mi objetivo es especializarme en desarrollo backend y análisis de datos aplicados al sector financiero.
-
-## 🧰 Tecnologías
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-1F4E79?style=for-the-badge&logo=databricks&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+[Web](https://nelsongomezsa.github.io) · [LinkedIn](https://www.linkedin.com/in/nelson-gómez-sánchez) · [Email](mailto:nelsongomezsa@gmail.com) · [CV (PDF)](https://nelsongomezsa.github.io/CV_Nelson_Gomez_Sanchez_ES.pdf)
 
 </div>
 
-## 🙋‍♂️ Sobre mí
+---
 
-Combino la formación en DAM con el Máster en Data & Analytics para construir aplicaciones y analizar datos con un enfoque práctico. Busco mis primeras prácticas para seguir creciendo como desarrollador, con la banca y la consultoría tecnológica como objetivo. **Disponible para prácticas de Formación en Empresa desde febrero de 2027.**
+## Sobre mí
 
-## 🚀 Proyectos destacados
+Programo en Java y Spring Boot y estudio 2.º de DAM y el Máster en Data & Analytics en Prometeo by thePower.
+Antes pasé 6 años coordinando operaciones logísticas en España y Australia: rutas, stock y KPIs.
+Busco prácticas de Formación en Empresa en desarrollo de software o datos en Madrid, desde febrero de 2027, en banca o consultoría tecnológica.
 
-### ⭐ [GestionAp PRO](https://github.com/nelsongomezsa/gestionAPPRO)
+## Stack
 
-Mi proyecto principal: la evolución avanzada de GestionAp. App de escritorio en **Java 17 + JavaFX + MySQL**, con arquitectura en capas (DAO/service/controller), JDBC puro, exportación XML validada con XSD y documentación completa. Aquí sigo aplicando mejoras y refactors más allá del alcance de la entrega académica original.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**[→ Ver el repositorio](https://github.com/nelsongomezsa/gestionAPPRO)**
+## Proyectos destacados
 
-### 💶 [Finance Tracker API](https://github.com/nelsongomezsa/finance-tracker-api)
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[GestionAp PRO](https://github.com/nelsongomezsa/gestionAPPRO)** | App de escritorio para gestionar el alquiler de habitaciones: contratos en PDF, pagos con QR SEPA, rentabilidad por piso. **189 tests.** | Java 21 · JavaFX · MySQL · JDBC |
+| **[GestionAp PRO API + iOS](https://github.com/nelsongomezsa/gestionapro)** | API REST con Spring Security y JWT por roles sobre la misma base de datos, y app iOS en SwiftUI. **83 tests.** | Java 21 · Spring Boot 3.5 · MariaDB · Swift |
+| **[Finance Tracker API](https://github.com/nelsongomezsa/finance-tracker-api)** | API de finanzas personales con resumen mensual por categoría y Swagger UI. | Java 17 · Spring Boot 3 · JUnit 5 · Mockito |
+| **[GestionAp API](https://github.com/nelsongomezsa/gestionap-api)** | API REST de habitaciones, inquilinos y contratos con reglas de negocio en el servicio. | Java 17 · Spring Boot 3 · Spring Data JPA |
 
-API REST en **Java 17 + Spring Boot 3** para controlar ingresos y gastos personales, con resumen mensual y desglose por categoría. Incluye **tests con JUnit 5, Mockito y MockMvc**, validación de datos, manejo centralizado de errores y documentación interactiva con **Swagger (OpenAPI)**.
+## Estadísticas
 
-**[→ Ver el repositorio](https://github.com/nelsongomezsa/finance-tracker-api)**
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nelsongomezsa&show_icons=true&hide_border=true&count_private=false" alt="Estadísticas de GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsongomezsa&layout=compact&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
-### Otros proyectos
+## Contacto
 
-- 🖥️ **[GestionAp](https://github.com/nelsongomezsa/GestionAP)** — Entrega académica original: app de escritorio con JavaFX + MySQL para gestión de alquiler de habitaciones.
-- ⚙️ **[GestionAp API](https://github.com/nelsongomezsa/gestionap-api)** — API REST en Java 17 + Spring Boot, ampliación backend del proyecto original.
-
-Ver los repositorios fijados abajo 📌
-
-## 📊 Actividad
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/nelsongomezsa?style=for-the-badge&color=2EE6A6&logo=github&logoColor=white" />
-
-</div>
-
-## 📫 Contacto
-
-<div align="center">
-
-<a href="https://nelsongomezsa.github.io">
-<img src="https://img.shields.io/badge/Portfolio-2EE6A6?style=for-the-badge&logo=githubpages&logoColor=white" />
-</a>
-<a href="mailto:nelsongomezsa@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/nelson-gómez-sánchez/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center">
-
-⭐ Gracias por visitar mi perfil ⭐
-
-</div>
+[nelsongomezsa@gmail.com](mailto:nelsongomezsa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nelson-gómez-sánchez) · [nelsongomezsa.github.io](https://nelsongomezsa.github.io)
