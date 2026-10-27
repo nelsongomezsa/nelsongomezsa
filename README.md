@@ -40,6 +40,16 @@ Busco prácticas de Formación en Empresa en desarrollo de software o datos en M
 | **[Finance Tracker API](https://github.com/nelsongomezsa/finance-tracker-api)** | API de finanzas personales con resumen mensual por categoría y Swagger UI. | Java 17 · Spring Boot 3 · JUnit 5 · Mockito |
 | **[GestionAp API](https://github.com/nelsongomezsa/gestionap-api)** | API REST de habitaciones, inquilinos y contratos con reglas de negocio en el servicio. | Java 17 · Spring Boot 3 · Spring Data JPA |
 
+## Proyectos de datos y otros lenguajes
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[Consultas SQL](https://github.com/nelsongomezsa/proyecto4-sql)** · *Máster en Data & Analytics* | Consultas SQL sobre la base de datos demo de Postgres Pro, la de reservas de vuelos. | SQL · PostgreSQL |
+| **[API de películas](https://github.com/nelsongomezsa/proyecto5-nosql)** · *Máster en Data & Analytics* | API de películas con Express y MongoDB (Mongoose), con el CRUD completo. | Node.js · Express · MongoDB · Mongoose |
+| **[Katas de Python](https://github.com/nelsongomezsa/proyecto3-katas-python)** · *Máster en Data & Analytics* | 40 katas de Python: listas, diccionarios, tuplas y sets, lambdas, una función recursiva y manejo de excepciones. | Python |
+| **[Katas de JavaScript](https://github.com/nelsongomezsa/proyecto2-katas-javascript)** · *Máster en Data & Analytics* | 56 ejercicios resueltos de JavaScript, de los fundamentos a la asincronía y el DOM. | JavaScript · ES6+ · DOM · HTML |
+| **[Chimi Go](https://github.com/nelsongomezsa/portfolio-chimigo)** | Web para Chimi Go, un local de comida callejera dominicana en Cuatro Caminos (Madrid): presentación, menú, ubicación y contacto en una sola página. | HTML · CSS · Flexbox · Grid |
+
 ## Estadísticas
 
 <p>
