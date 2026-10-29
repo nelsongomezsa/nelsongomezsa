@@ -2,7 +2,7 @@
 
 # Nelson Gómez Sánchez
 
-**Desarrollador Java junior (DAM + Máster en Data & Analytics) | Spring Boot · SQL · Python | Prácticas de Formación en Empresa en Madrid desde feb. 2027**
+**Desarrollador Java junior (DAM + Máster en Data & Analytics) | Spring Boot · SQL · Python | Buscando prácticas de Formación en Empresa en Madrid desde feb. 2027**
 
 [Web](https://nelsongomezsa.github.io) · [LinkedIn](https://www.linkedin.com/in/nelson-gómez-sánchez) · [Email](mailto:nelsongomezsa@gmail.com) · [CV (PDF)](https://nelsongomezsa.github.io/CV_Nelson_Gomez_Sanchez_ES.pdf)
 
