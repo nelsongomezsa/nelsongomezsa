@@ -48,7 +48,7 @@ Busco prácticas de Formación en Empresa en desarrollo de software o datos en M
 | **[API de películas](https://github.com/nelsongomezsa/proyecto5-nosql)** · *Máster en Data & Analytics* | API de películas con Express y MongoDB (Mongoose), con el CRUD completo. | Node.js · Express · MongoDB · Mongoose |
 | **[Katas de Python](https://github.com/nelsongomezsa/proyecto3-katas-python)** · *Máster en Data & Analytics* | 40 katas de Python: listas, diccionarios, tuplas y sets, lambdas, una función recursiva y manejo de excepciones. | Python |
 | **[Katas de JavaScript](https://github.com/nelsongomezsa/proyecto2-katas-javascript)** · *Máster en Data & Analytics* | 56 ejercicios resueltos de JavaScript, de los fundamentos a la asincronía y el DOM. | JavaScript · ES6+ · DOM · HTML |
-| **[Chimi Go](https://github.com/nelsongomezsa/portfolio-chimigo)** | Web para Chimi Go, un local de comida callejera dominicana en Cuatro Caminos (Madrid): presentación, menú, ubicación y contacto en una sola página. | HTML · CSS · Flexbox · Grid |
+| **[ChimiGO Urban Food](https://github.com/nelsongomezsa/portfolio-chimigo)** · **[▶ Ver en vivo](https://nelsongomezsa.github.io/portfolio-chimigo/)** | Web para un local de comida callejera dominicana en Cuatro Caminos (Madrid): carta interactiva con carrito y pedido por WhatsApp, horario en vivo, ES / EN e instalable como PWA. **Lighthouse 97–100.** | HTML · CSS · JavaScript · PWA · i18n |
 
 ## Estadísticas
 
