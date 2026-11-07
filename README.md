@@ -17,7 +17,7 @@ Busco prácticas de Formación en Empresa en desarrollo, datos o consultoría te
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| **[GestionAp PRO](https://github.com/nelsongomezsa/gestionapro)** | API REST y app de iPhone para gestionar pisos compartidos: contratos, cobros y recibos en PDF. 220 tests de API. | Java 21 · Spring Boot 3.5 · MariaDB · SwiftUI |
+| <a href="https://github.com/nelsongomezsa/gestionapro"><img src="https://raw.githubusercontent.com/nelsongomezsa/gestionapro/main/docs/capturas/destacadas/oscuro/02-inicio.png" width="90" alt="Pantalla de inicio de la app GestionAp PRO en iPhone"></a><br>**[GestionAp PRO · App iPhone](https://github.com/nelsongomezsa/gestionapro)** | App nativa para iPhone para gestionar pisos compartidos: contratos, cobros y recibos en PDF, con su propia API REST en Spring Boot. 220 tests de API. | SwiftUI · Java 21 · Spring Boot 3.5 · MariaDB |
 | **[ChimiGO Urban Food](https://github.com/nelsongomezsa/portfolio-chimigo)** · [en vivo](https://nelsongomezsa.github.io/portfolio-chimigo/) | Web de un local de comida dominicana en Madrid: carta con pedido por WhatsApp, ES / EN y PWA. | HTML · CSS · JavaScript |
 | **[Finance Tracker API](https://github.com/nelsongomezsa/finance-tracker-api)** | API de finanzas personales con resumen mensual por categoría. | Java 17 · Spring Boot 3 · JUnit 5 |
 
