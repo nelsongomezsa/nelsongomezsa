@@ -12,12 +12,14 @@ Busco prácticas de Formación en Empresa en desarrollo, datos o consultoría te
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | <a href="https://github.com/nelsongomezsa/gestionapro"><img src="https://raw.githubusercontent.com/nelsongomezsa/gestionapro/main/docs/capturas/destacadas/oscuro/02-inicio.png" width="90" alt="Pantalla de inicio de la app GestionAp PRO en iPhone"></a><br>**[GestionAp PRO · App iPhone](https://github.com/nelsongomezsa/gestionapro)** | App nativa para iPhone para gestionar pisos compartidos: contratos, cobros y recibos en PDF, con su propia API REST en Spring Boot. 220 tests de API. | SwiftUI · Java 21 · Spring Boot 3.5 · MariaDB |
+| <a href="https://github.com/nelsongomezsa/bitcoin-tracker"><img src="https://raw.githubusercontent.com/nelsongomezsa/bitcoin-tracker/main/docs/capturas/inicio-movil.png" width="90" alt="Pantalla de inicio de Bitcoin Tracker"></a><br>**[Bitcoin Tracker](https://github.com/nelsongomezsa/bitcoin-tracker)** · [demo](https://bitcoin-tracker-4aac9.web.app) | App instalable (PWA) para seguir compras de bitcoin: precio medio, ganancias en EUR/USD/AUD, ventas por FIFO y unos 35 avisos push. Nació para sustituir un Excel. Todo en planes gratuitos. | React · TypeScript · Firebase · GitHub Actions |
 | **[ChimiGO Urban Food](https://github.com/nelsongomezsa/portfolio-chimigo)** · [en vivo](https://nelsongomezsa.github.io/portfolio-chimigo/) | Web de un local de comida dominicana en Madrid: carta con pedido por WhatsApp, ES / EN y PWA. | HTML · CSS · JavaScript |
 | **[Finance Tracker API](https://github.com/nelsongomezsa/finance-tracker-api)** | API de finanzas personales con resumen mensual por categoría. | Java 17 · Spring Boot 3 · JUnit 5 |
 
