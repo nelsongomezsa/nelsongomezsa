@@ -1,7 +1,7 @@
 # Nelson Gómez Sánchez
 
-**Desarrollo de software y datos · Java, SQL y Python · Buscando prácticas en IT en Madrid desde febrero de 2027**
-<br><sub>Software development & data · Java, SQL, Python · Seeking an IT internship in Madrid from February 2027</sub>
+**Desarrollo de software y datos · Java, TypeScript y SQL · Buscando prácticas en IT en Madrid desde febrero de 2027**
+<br><sub>Software development & data · Java, TypeScript, SQL · Seeking an IT internship in Madrid from February 2027</sub>
 
 [Web](https://nelsongomezsa.github.io) · [LinkedIn](https://www.linkedin.com/in/nelson-g%C3%B3mez-s%C3%A1nchez/) · [Email](mailto:nelsongomezsa@gmail.com) · [CV (PDF)](https://nelsongomezsa.github.io/CV_Nelson_Gomez_Sanchez_ES.pdf)
 
